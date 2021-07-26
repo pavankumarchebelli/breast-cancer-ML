@@ -31,3 +31,6 @@ In our proposed system we used the following algorithms:
 4) Gaussian Naive Bayes
 5) Decision Tree Classifier
 6) Random Forest Classifier
+
+
+In our output the results are obtained in the form of 1's and 0's(Where 1 means Malignant(Cancerous) and 0 means Benign(Non-Cancerous)).
