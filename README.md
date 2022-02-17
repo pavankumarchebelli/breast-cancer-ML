@@ -11,7 +11,7 @@ benign tumors can prevent patients from undergoing unnecessary treatments.
 Thus, the correct diagnosis of BC and classification of patients into malignant
 or benign groups is the subject of much research.
 
-**Proposed System**
+### Proposed System
 • This proposed system presents a comparison of major machine learning
 (ML) algorithms. The dataset used is obtained from the Wisconsin Diagnostic
 Breast Cancer (WDBC) which is very efficient in classification of breast tumor.
